@@ -1,0 +1,33 @@
+.progress-colour {
+  color: #0274beff;
+}
+.progress-bar-colour {
+  background-color: #0274beff;
+}
+.band-colour {
+  color: rgb(255, 255, 255);
+}
+.project-box-inner-color h5 {
+  color: whitesmoke;
+}
+.project-box-inner-color div {
+  color: whitesmoke;
+  font-weight: lighter;
+}
+.project-box-hover:hover {
+  color: #0274beff;
+}
+
+#renhanse-aboutus {
+  color: rgb(194, 194, 194);
+}
+
+.font-weight-light {
+  font-weight: lighter;
+}
+.ul-li-items li {
+  color: whitesmoke;
+}
+ul.ul-li-items {
+  list-style: square;
+}
